@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './Cutlery.ico';
-import './App.css';
+import './style.css';
+
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
         <p className="App-intro">
           What are you craving?
         </p>
+
       </div>
     );
   }
