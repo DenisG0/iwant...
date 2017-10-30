@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Food Finder App",
+  "name": "Finding the right dish",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "Cutlery.ico",
       "sizes": "192x192",
       "type": "image/png"
     }
